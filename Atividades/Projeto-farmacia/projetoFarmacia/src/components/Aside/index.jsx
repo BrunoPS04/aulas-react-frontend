@@ -16,7 +16,7 @@ function Aside() {
         </p>
       </div>
       <div className="div-cartoes">
-        {/* <img src="./images/farmarcia-cartoes.png" alt="" /> */}
+        <img src="./images/farmarcia-cartoes.png" alt="" />
       </div>
     </div>
   );
